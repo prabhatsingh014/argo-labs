@@ -5,7 +5,3 @@ resources:
 - rollout.yaml
 - service.yaml
 - preview-service.yaml
-images:
-- name: schoolofdevops/vote
-  newName: prabhatsingh014/vote
-  newTag: v1
